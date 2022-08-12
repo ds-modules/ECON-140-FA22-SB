@@ -1,6 +1,6 @@
 # ECON-140-FA22-SB
 
-Public Repo for Economics 140
+Public Repo for Economic Statistics and Econometrics
 
 | Assignment  | NBgitpuller Link  |  
 |---|---|
